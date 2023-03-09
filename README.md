@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bcvi.visitor-badge&right_color=green&left_text=Profile%20View)
-<!-- ![visitor badge](https://komarev.com/ghpvc/?username=bcvi&style=for-the-badge&color=97ca00) -->
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bcvi.visitor-badge&right_color=green&left_text=Profile%20View) -->
+![visitor badge](https://komarev.com/ghpvc/?username=bcvi&style=for-the-badge&color=97ca00)
 
 When will I become proficient with 👇?
 <p align="left">
