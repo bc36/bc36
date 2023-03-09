@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bcvi.visitor-badge&right_color=green&left_text=Profile%20View)
-<!-- ![](https://komarev.com/ghpvc/?username=bcvi&style=flat-square) -->
+<!-- ![visitor badge](https://komarev.com/ghpvc/?username=bcvi&style=for-the-badge&color=97ca00) -->
 
 When will I become proficient with 👇?
 <p align="left">
