@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there
 
 <!--
 **bcvi/bcvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bcvi.visitor-badge&right_color=green&left_text=Profile%20View) -->
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bcvi.visitor-badge&right_color=green)
-<!-- ![visitor badge](https://komarev.com/ghpvc/?username=bcvi&style=for-the-badge&color=97ca00)
-<p align="left">
-  <img id="bbb" src="https://visitor-badge.glitch.me/badge?page_id=bcvi.visitor-badge&right_color=green&left_text=Profile%20View" alt="visitor badge" style="max-width:100%;" >
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bcvi.visitor-badge&right_color=green" alt="visitor badge" style="max-width:100%;">
-  <img src="https://komarev.com/ghpvc/?username=bcvi&style=for-the-badge&color=97ca00" alt="visitor badge" style="max-width:100%;">
-</p> -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bcvi&column=7)](https://github.com/bcvi) --> -->
 
-When will I become proficient with 👇?
+
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcvi&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bcvi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> | 
+| ------------- | ------------- |
+
+
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bcvi.visitor-badge&right_color=green) -->
+
+## 🦦 When will I become proficient with 👇?
 <p align="left">
   <!-- Badges go here -->
-  <img id="ccc" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg" alt="go" style="max-width:100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg" alt="java" style="max-width:100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg" alt="js" style="max-width:100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg" alt="k8s" style="max-width:100%;">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="leetcode" style="max-width:100%;">
 </p>
+
+## 📊 Github Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcvi&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcvi&layout=compact" /> | 
+| ------------- | ------------- |
+
+<!-- <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcvi&layout=compact" alt="Top Langs" style="max-width:100%;">
+</p> -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcvi&layout=compact) -->
+
