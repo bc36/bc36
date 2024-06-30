@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 <!--
-**bcvi/bcvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bc36/bc36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bcvi&column=7)](https://github.com/bcvi) --> -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bc36&column=7)](https://github.com/bc36) -->
 
 
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcvi&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bcvi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> | 
-| ------------- | ------------- |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bc36&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bc36&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> | 
+| ------------- | ------------- | -->
 
 
-<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bcvi.visitor-badge&right_color=green) -->
+<!-- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=bc36.visitor-badge&right_color=green) -->
 
 ## 🦦 When will I become proficient with 👇?
 <p align="left">
@@ -36,13 +36,12 @@ Here are some ideas to get you started:
 </p>
 
 ## 📊 Github Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bcvi&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcvi&layout=compact" /> | 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bc36&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc36&layout=compact" /> | 
 | ------------- | ------------- |
 
 <!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcvi&layout=compact" alt="Top Langs" style="max-width:100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc36&layout=compact" alt="Top Langs" style="max-width:100%;">
 </p> -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcvi&layout=compact) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bc36&layout=compact) -->
 
